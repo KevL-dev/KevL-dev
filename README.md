@@ -23,6 +23,11 @@ Check out my pinned repos below
 
 ---
 
+###  Also into...
+ 
+WoW Addon development (Lua) — [BloodOverdrive on CurseForge](https://www.curseforge.com/wow/addons/bloodoverdrive)
+ 
+---
 ###  Get in touch
 
 Open for freelance work — web apps, mobile apps, and frontend consulting.
