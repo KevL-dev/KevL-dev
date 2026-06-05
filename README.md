@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Kevin 👋</h1>
 
-<!--
-**KevL-dev/KevL-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Web & App Developer</strong> · Bavaria, Germany
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build web apps, native mobile apps, and games.<br>
+  Always shipping something new on the side.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  What I'm working on
+
+-  Various web projects & freelance work
+
+---
+
+###  Things I work with
+
+I use whatever fits the project best — from frontend to backend to game engines.
+
+---
+
+###  Featured projects
+
+Check out my pinned repos below 
+
+---
+
+###  Get in touch
+
+Open for freelance work — web apps, mobile apps, and frontend consulting.
+
+> *Let's build something.*
