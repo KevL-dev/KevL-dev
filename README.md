@@ -11,12 +11,6 @@
 
 ---
 
-###  What I'm working on
-
--  Various web projects & freelance work
-
----
-
 ###  Things I work with
 
 I use whatever fits the project best — from frontend to backend to game engines.
