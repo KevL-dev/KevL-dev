@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Kevin 👋</h1>
 
 <p align="center">
-  <strong>Web & App Developer</strong> · Bavaria, Germany
+  <strong>Web & App Developer</strong> · Germany
 </p>
 
 <p align="center">
